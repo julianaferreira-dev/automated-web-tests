@@ -2,7 +2,7 @@
 
 </br>
 
-### Este repositório contém uma coleção de testes automatizados para diversas aplicações web, utilizando diversas ferramentas e frameworks. Cada pasta está organizada de acordo com a ferramenta específica, facilitando a navegação e o estudo de diferentes abordagens para testes de aplicações web.
+### Este repositório contém uma coleção de testes automatizados para aplicações web, utilizando diversas ferramentas e frameworks. Cada pasta está organizada de acordo com a ferramenta específica, facilitando a navegação e o estudo de diferentes abordagens para testes de aplicações web.
 
 </br>
 
